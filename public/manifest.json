@@ -1,0 +1,106 @@
+{
+  "name": "Mojo validation view",
+  "version": "1.0.0",
+  "size": {
+    "width": 5,
+    "height": 3
+  },
+  "mapping": [
+    {
+      "dataSetId": "e0962c31-a31b-4d0d-a938-d262fbcc0f89",
+      "alias": "PTP_Completed",
+      "fields": []
+    },
+    {
+      "dataSetId": "75faf348-2275-4155-934c-36bbb0b5ebe0",
+      "alias": "PTP_Average_Quality",
+      "fields": []
+    },
+    {
+      "dataSetId": "c522968d-fa1b-4870-b447-5b599041bc35",
+      "alias": "PTP_Pending_Approval",
+      "fields": []
+    },
+    {
+      "dataSetId": "4f13c1b3-da95-46b7-b154-3181a1f5adc9",
+      "alias": "PTP_High_Risk",
+      "fields": []
+    },
+    {
+      "dataSetId": "198452c7-0d1a-43b6-a4fc-748c147acda6",
+      "alias": "PTP_With_Permits",
+      "fields": []
+    },
+    {
+      "dataSetId": "6393bf7a-ea98-4a46-9e57-62d7fe44bb7c",
+      "alias": "PTP_permit_Approval",
+      "fields": []
+    },
+    {
+      "dataSetId": "4475ecb6-f9eb-4a0c-8f17-472495cae62c",
+      "alias": "Observations_Completed",
+      "fields": []
+    },
+    {
+      "dataSetId": "7816d95e-8466-4032-ac53-5bfd6d5cb9f6",
+      "alias": "Observations_Top_Categories",
+      "fields": []
+    },
+    {
+      "dataSetId": "9119142b-8181-4e06-9ef0-eab9bbf1fb48",
+      "alias": "Observations_Open_Corrective_Actions",
+      "fields": []
+    },
+    {
+      "dataSetId": "229b5734-b1ff-4f83-988b-be4428092319",
+      "alias": "Observations_Overdue_Actions",
+      "fields": []
+    },
+    {
+      "dataSetId": "874c4382-57e6-41fe-8b1d-68ee1deabdc2",
+      "alias": "Location_data",
+      "fields": []
+    },
+    {
+      "dataSetId": "f9285e0a-c875-4d61-a494-17b494c84357",
+      "alias": "Observation_data",
+      "fields": []
+    },
+    {
+      "dataSetId": "198452c7-0d1a-43b6-a4fc-748c147acda6",
+      "alias": "PTP_data",
+      "fields": []
+    },
+    {
+      "dataSetId": "6393bf7a-ea98-4a46-9e57-62d7fe44bb7c",
+      "alias": "Permit_data",
+      "fields": []
+    },
+    {
+      "dataSetId": "874c4382-57e6-41fe-8b1d-68ee1deabdc2",
+      "alias": "Location_data",
+      "fields": []
+    },
+    {
+      "dataSetId": "f9285e0a-c875-4d61-a494-17b494c84357",
+      "alias": "Observation_data",
+      "fields": []
+    },
+    {
+      "dataSetId": "198452c7-0d1a-43b6-a4fc-748c147acda6",
+      "alias": "PTP_data",
+      "fields": []
+    },
+    {
+      "dataSetId": "6393bf7a-ea98-4a46-9e57-62d7fe44bb7c",
+      "alias": "Permit_data",
+      "fields": []
+    }
+    
+  ],
+  "collections": [],
+  "workflowMapping": [],
+  "packagesMapping": [],
+  "id": "1351e105-a5b8-4e3a-860b-72b9894bcc0b",
+  "proxyId": "09fa4aa2-0144-4879-8806-9d989ba63bbe"
+}
